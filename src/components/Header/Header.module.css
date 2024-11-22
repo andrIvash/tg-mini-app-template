@@ -1,0 +1,18 @@
+.header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+.title {
+    font-family: 'Roboto';
+    font-size: 2rem;
+    color: blue;
+}
+
+.image {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+}
